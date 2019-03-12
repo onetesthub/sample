@@ -1,5 +1,0 @@
-{"authTemplate":{"_id":"none","authTemplateName":"None"},"envTemplate":{"_id":"none","envTemplateName":"None"},"suiteName":"suite99","timeStamp":1552033411222,"next":null,"_id":"9cUhGg8IkCOTNIpl"}
-{"authTemplate":{"_id":"none","authTemplateName":"None"},"envTemplate":{"_id":"none","envTemplateName":"None"},"suiteName":"suite1","timeStamp":1552033403941,"next":"suite2","_id":"tAgqpN0vFIXU3myi"}
-{"authTemplate":{"_id":"none","authTemplateName":"None"},"envTemplate":{"_id":"none","envTemplateName":"None"},"suiteName":"suite2","timeStamp":1552033407967,"next":"suite99","_id":"y1N3eOnZZSICmlIb"}
-{"authTemplate":{"_id":"none","authTemplateName":"None"},"envTemplate":{"_id":"none","envTemplateName":"None"},"suiteName":"suite101","timeStamp":1552379694023,"next":null,"_id":"2i2NjrFbv9EqUUfT"}
-{"authTemplate":{"_id":"none","authTemplateName":"None"},"envTemplate":{"_id":"none","envTemplateName":"None"},"suiteName":"suite99","timeStamp":1552033411222,"next":"suite101","_id":"9cUhGg8IkCOTNIpl"}
